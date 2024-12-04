@@ -1,30 +1,24 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Oscar</a> 👋</h1>
+<h1 align="center">Hola, soy <a href=>Oscar</a> 👋</h1>
 </div>
 <img src="https://4.bp.blogspot.com/_EZ16vWYvHHg/TUB1v7-WclI/AAAAAAAAWbU/jjuK67OOKKk/s1600/www.BancodeImagenesGratuitas.com-glen-etive.jpg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- ⭐ Estudiante De Tecnologias de la Informacion y Telecomunicaciones ⭐ 
+- 📲 Apasionado por la tecnologia
+- 🎥 Me encanta el cine
+- ✏️ Mi correo es: 
+- 📗 Me gusta leer
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *Omg*
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Primer Trabajo de git</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/OscarIvan3/Proyecto-Finalt" target="_blank"><img src="https://www.protegeme.es/wp-content/uploads/2023/07/Un-recorrido-por-el-sistema-operativo-Linux.webp" width="400" alt="Trabajo Final de Sistemas Operativos"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
