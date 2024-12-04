@@ -8,7 +8,7 @@
 - ⭐ Estudiante De Tecnologias de la Informacion y Telecomunicaciones ⭐ 
 - 📲 Apasionado por la tecnologia
 - 🎥 Me encanta el cine
-- ✏️ Mi correo es: 
+- ✏️ Mi correo es: Oscarivanaragon24@gmail.com
 - 📗 Me gusta leer
 <br>
 
