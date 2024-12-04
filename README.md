@@ -1,14 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href=>Oscar</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="#">Oscar</a> 👋</h1>
 </div>
-<img src="https://4.bp.blogspot.com/_EZ16vWYvHHg/TUB1v7-WclI/AAAAAAAAWbU/jjuK67OOKKk/s1600/www.BancodeImagenesGratuitas.com-glen-etive.jpg">
+<img src="https://4.bp.blogspot.com/_EZ16vWYvHHg/TUB1v7-WclI/AAAAAAAAWbU/jjuK67OOKKk/s1600/www.BancodeImagenesGratuitas.com-glen-etive.jpg" alt="Paisaje">
 
 ## Sobre mi
 
 - ⭐ Estudiante De Tecnologias de la Informacion y Telecomunicaciones ⭐ 
 - 📲 Apasionado por la tecnologia
 - 🎥 Me encanta el cine
-- ✏️ Mi correo es: 
+- ✏️ Mi correo es: tu.correo@ejemplo.com
 - 📗 Me gusta leer
 <br>
 
@@ -24,8 +24,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
-![Android]https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
-![vs](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)
-![github](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)
+  ![Descripción del GIF](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
+  ![Descripción del GIF](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)
+  ![Descripción del GIF](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)
+  ![Descripción del GIF](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
+  ![Descripción del GIF](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 </p>
