@@ -21,7 +21,7 @@
 <a href="https://github.com/OscarIvan3/Proyecto-Finalt" target="_blank"><img src="https://www.protegeme.es/wp-content/uploads/2023/07/Un-recorrido-por-el-sistema-operativo-Linux.webp" width="400" alt="Trabajo Final de Sistemas Operativos"></a>
 <p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Programas
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
