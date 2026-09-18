@@ -1,32 +1,53 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="#">Oscar</a> 👋</h1>
-</div>
-<img src="https://4.bp.blogspot.com/_EZ16vWYvHHg/TUB1v7-WclI/AAAAAAAAWbU/jjuK67OOKKk/s1600/www.BancodeImagenesGratuitas.com-glen-etive.jpg" alt="Paisaje">
+<h1 align="center">Hola, soy Oscar 👋</h1>
 
-## Sobre mi
+<p align="center">
+  Estudiante de Tecnologías de la Información y Telecomunicaciones<br>
+  Apasionado por la tecnología, el cine y la lectura
+</p>
 
-- ⭐ Estudiante De Tecnologias de la Informacion y Telecomunicaciones ⭐ 
-- 📲 Apasionado por la tecnologia
+<p align="center">
+  <a href="mailto:Oscarivanaragon24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/OscarIvan3">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <!-- TODO: agrega tu LinkedIn si tienes -->
+</p>
+
+---
+
+## 🧑‍💻 Sobre mí
+
+- 🎓 Estudio Tecnologías de la Información y Telecomunicaciones
+- 📲 Me apasiona la tecnología
 - 🎥 Me encanta el cine
-- ✏️ Mi correo es: Oscarivanaragon24@gmail.com
 - 📗 Me gusta leer
-<br>
+- 🌱 Actualmente aprendiendo: TODO (ej. Redes, Python, Bash…)
 
-## Proyectos *Omg*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Primer Trabajo de git</h3>
-<div align="center">
-<a href="https://github.com/OscarIvan3/Proyecto-Finalt" target="_blank"><img src="https://www.protegeme.es/wp-content/uploads/2023/07/Un-recorrido-por-el-sistema-operativo-Linux.webp" width="400" alt="Trabajo Final de Sistemas Operativos"></a>
+## 🛠️ Tecnologías y herramientas
+
 <p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" alt="Tecnologías">
+</p>
+<!-- TODO: agrega o quita íconos según lo que uses: python,js,html,css,cpp,java,mysql -->
 
-### ⚙️ &nbsp;Programas
+## 🚀 Proyectos
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [Trabajo Final de Sistemas Operativos](https://github.com/OscarIvan3/Proyecto-Finalt) | TODO: explica en una línea qué hace | Linux, Git |
+| TODO | TODO | TODO |
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarIvan3&show_icons=true&theme=tokyonight" alt="Estadísticas" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarIvan3&layout=compact&theme=tokyonight" alt="Lenguajes" height="150">
+</p>
+
+## 📫 Contacto
+
+Escríbeme a **Oscarivanaragon24@gmail.com**
+
+<p align="center"><i>⭐ Gracias por visitar mi perfil ⭐</i></p>
